@@ -125,6 +125,7 @@ full:damcdn.samokat.ru @ngenix
 
 # Купер
 full:kuper.ru @servicepipe
+full:web.kuper.ru @servicepipe
 full:ssp-gw.kuper.ru @servicepipe
 full:imgproxy.kuper.ru @ngenix
 
