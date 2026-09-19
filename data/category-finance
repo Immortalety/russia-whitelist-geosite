@@ -57,7 +57,8 @@ full:dc.otpbank.ru
 full:modulbank.ru @servicepipe
 
 
-# Т-Банк (частично)
+# Т-Банк
+full:tbank.ru
 full:as.tbank.ru
 full:certs.t-bank-app.ru @cdnvideo
 full:www.tbank.ru
