@@ -90,6 +90,8 @@ full:tv3.ru
 
 # Матч ТВ
 full:matchtv.ru @edgecenter
+full:cdn-frontend.matchtv.ru @edgecenter
+full:fb-cdn.matchtv.ru @edgecenter
 
 
 # Спас
