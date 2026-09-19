@@ -66,6 +66,8 @@ full:1tv.ru @curator
 
 # НТВ
 full:ntv.ru @ddosguard
+full:cdn.ntv.ru @edgecenter
+full:cdn-dvr.ntv.ru @edgecenter
 
 
 # ТНТ
