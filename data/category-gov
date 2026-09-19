@@ -12,7 +12,7 @@ domain:gosuslugi.ru # Слишком много поддоменов напод�
 full:gu-st.ru @ngenix
 
 # Сервер органов государственной власти России
-full:gov.ru
+domain:gov.ru # Слишком много поддоменов наподобие gossluzhba.gov.ru
 
 
 # Портал Москвы
