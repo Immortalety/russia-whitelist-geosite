@@ -60,6 +60,7 @@ full:modulbank.ru @servicepipe
 # Т-Банк (частично)
 full:as.tbank.ru
 full:cdn-tinkoff.ru @edgecenter
+full:cdn.t-static.ru @edgecenter
 full:cdn.tbank.ru @edgecenter
 full:certs.t-bank-app.ru @cdnvideo
 full:certs.t-bank-app.su @edgecenter
