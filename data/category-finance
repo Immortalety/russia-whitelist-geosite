@@ -80,3 +80,7 @@ full:banki.ru @stormwall
 full:credistory.ru @servicepipe
 full:esia.credistory.ru @servicepipe
 full:cdn.credistory.ru @ngenix
+
+
+# Финуслуги
+full:finuslugi.ru
