@@ -63,6 +63,7 @@ full:myspar.ru
 
 # Metro
 full:metro-cc.ru @edgecenter
+full:api.metro-cc.ru @edgecenter
 full:cdn-mcc-opv-s3.metro-cc.ru @edgecenter
 full:cdn.metro-cc.ru @edgecenter
 full:nuxt-cdn.metro-cc.ru @edgecenter
