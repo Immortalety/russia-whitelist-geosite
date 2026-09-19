@@ -62,6 +62,8 @@ full:sport24.ru @curator
 
 # Первый канал
 full:1tv.ru @curator
+full:api.1tv.ru @edgecenter
+full:static.1tv.ru @edgecenter
 
 
 # НТВ
