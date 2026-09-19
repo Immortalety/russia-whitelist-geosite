@@ -59,6 +59,8 @@ full:modulbank.ru @servicepipe
 
 # Т-Банк (частично)
 full:certs.t-bank-app.ru @cdnvideo
+full:imgproxy.cdn-tinkoff.ru @edgecenter
+full:sso-forms-prod.t-static.ru @edgecenter
 
 
 # ЮMoney (частично)
