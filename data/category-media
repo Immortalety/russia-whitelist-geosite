@@ -33,6 +33,7 @@ full:aif.ru @ddosguard
 
 # Российская газета
 full:rg.ru @curator
+full:cdnfiles.rg.ru @edgecenter
 
 
 # Ведомости
