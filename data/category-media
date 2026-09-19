@@ -83,7 +83,6 @@ full:ctc.ru @servicepipe
 
 # Пятый канал
 full:5-tv.ru @ddosguard
-full:player.mediavitrina.ru @edgecenter
 
 
 # ТВ Центр
@@ -159,3 +158,7 @@ full:cdn.xn--90aivcdt6dxbc.xn--p1ai
 # Звезда
 full:tvzvezda.ru @ddosguard
 full:tvchannelstream1.tvzvezda.ru @edgecenter
+
+
+# Медиавитрина (используется многими сайтами)
+full:player.mediavitrina.ru @edgecenter
