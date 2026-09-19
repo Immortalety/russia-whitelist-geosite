@@ -154,3 +154,8 @@ full:cdn-asset.ura.news
 # Объясняем.рф
 full:xn--90aivcdt6dxbc.xn--p1ai @servicepipe
 full:cdn.xn--90aivcdt6dxbc.xn--p1ai
+
+
+# Звезда
+full:tvzvezda.ru @ddosguard
+full:tvchannelstream1.tvzvezda.ru @edgecenter
